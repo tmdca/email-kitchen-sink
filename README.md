@@ -1,4 +1,4 @@
 email-kitchen-sink
 ==================
 
-HTML common elements
+Base content elements used for newsletter styling.
